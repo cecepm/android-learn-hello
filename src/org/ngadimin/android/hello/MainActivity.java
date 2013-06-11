@@ -1,11 +1,9 @@
 package org.ngadimin.android.hello;
 
-import android.os.Bundle;
 import android.app.Activity;
-import android.view.Menu;
+import android.os.Bundle;
 import android.util.Log;
-
-import org.ngadimin.android.hello.Constants;
+import android.view.Menu;
 
 public class MainActivity extends Activity {
 
